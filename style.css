@@ -1,8 +1,12 @@
 body {
-    background-color: rgb(16, 166, 192);
+    background-color: #1a1a2e;
 }
 
 h1 {
-    color: yellowgreen;
+    color: #ffffff;
     font-size: 75px;
+}
+
+h2 {
+    color: #ffffff;
 }
