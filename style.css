@@ -19,3 +19,8 @@ h3 {
 p {
     color: #f5f5dc;
 }
+/* Mais um pouquinho maior */
+font-size: clamp(24px, 3.5vw, 34px);
+
+/* Um pouco menor */
+font-size: clamp(18px, 2.5vw, 24px);
