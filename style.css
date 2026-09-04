@@ -1,5 +1,6 @@
 body {
     background-color: #1a1a2e;
+    color: #f5f5dc; /* bege claro pra todo texto do site */
 }
 
 h1 {
@@ -12,5 +13,9 @@ h2 {
 }
 
 h3 {
+    color: #f5f5dc;
+}
+
+p {
     color: #f5f5dc;
 }
