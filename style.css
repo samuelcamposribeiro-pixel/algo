@@ -1,6 +1,6 @@
 body {
     background-color: #1a1a2e;
-    color: #f5f5dc; /* bege claro pra todo texto do site */
+    color: #f5f5dc;
 }
 
 h1 {
@@ -14,13 +14,9 @@ h2 {
 
 h3 {
     color: #f5f5dc;
+    font-size: clamp(28px, 4.5vw, 40px);
 }
 
 p {
     color: #f5f5dc;
 }
-/* Mais um pouquinho maior */
-font-size: clamp(24px, 3.5vw, 34px);
-
-/* Um pouco menor */
-font-size: clamp(18px, 2.5vw, 24px);
